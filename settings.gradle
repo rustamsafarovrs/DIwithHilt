@@ -1,0 +1,2 @@
+rootProject.name = "DI with Hilt"
+include ':app'
